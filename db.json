@@ -1,19 +1,19 @@
 {
 	"person": [{
-		"nombre": "Raul",
+		"name": "Raul",
 		"ap": "Perez",
 		"am": "Saldivar",
-		"sexo": "Hombre",
-		"edad": "24",
+		"sex": "Hombre",
+		"age": "24",
 		"email": "raul@hotmail.com",
-		"icono": "fas fa-archive"
+		"icon": "fas fa-archive"
 	}, {
-		"nombre": "Andrea",
+		"name": "Andrea",
 		"ap": "Perez",
 		"am": "Saldivar",
-		"sexo": "Mujer",
-		"edad": "28",
+		"sex": "Mujer",
+		"age": "28",
 		"email": "andrea@hotmail.com",
-		"icono": "fas fa-anchor"
+		"icon": "fas fa-anchor"
 	}]
 }
