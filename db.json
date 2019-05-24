@@ -1,4 +1,4 @@
-{"person":[{
+[{
 		"name": "Raul",
 		"ap": "Perez",
 		"am": "Saldivar",
@@ -14,5 +14,5 @@
 		"age": "28",
 		"email": "andrea@hotmail.com",
 		"icon": "fas fa-anchor"
-	}]}
+	}]
 
